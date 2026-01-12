@@ -1,4 +1,4 @@
-//package IntroductoryProblem.WierdAlgorithm;
+package IntroductoryProblem.WierdAlgorithm;
 
 import java.util.Scanner;
 
