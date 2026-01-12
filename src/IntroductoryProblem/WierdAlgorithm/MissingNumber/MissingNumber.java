@@ -1,4 +1,4 @@
-package MissingNumber;
+package IntroductoryProblem.WierdAlgorithm.MissingNumber;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Repititive;
+package IntroductoryProblem.WierdAlgorithm.Repititive;
 
 import java.util.Scanner;
 
