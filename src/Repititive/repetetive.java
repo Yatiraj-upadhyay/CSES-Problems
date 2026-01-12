@@ -10,7 +10,7 @@ public class repetetive {
         int m=0;
         int n=str.length();
         for(char ch:str.toCharArray()){
-            if()
+
         }
     }
 }

@@ -1,4 +1,4 @@
-//package MissingNumber;
+package MissingNumber;
 
 import java.util.Scanner;
 
